@@ -9,11 +9,11 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 	<title>Acessar &lsaquo; Template &#8212; WordPress</title>
 	<link rel='dns-prefetch' href='//s.w.org' />
-<link rel='stylesheet' id='dashicons-css'  href='/https://murylu.github.io/MyTemplate/wp-includes/css/dashicons.min.css?ver=5.2.2' type='text/css' media='all' />
-<link rel='stylesheet' id='buttons-css'  href='/https://murylu.github.io/MyTemplate/wp-includes/css/buttons.min.css?ver=5.2.2' type='text/css' media='all' />
-<link rel='stylesheet' id='forms-css'  href='/https://murylu.github.io/MyTemplate/wp-admin/css/forms.min.css?ver=5.2.2' type='text/css' media='all' />
-<link rel='stylesheet' id='l10n-css'  href='/https://murylu.github.io/MyTemplate/wp-admin/css/l10n.min.css?ver=5.2.2' type='text/css' media='all' />
-<link rel='stylesheet' id='login-css'  href='/https://murylu.github.io/MyTemplate/wp-admin/css/login.min.css?ver=5.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='http://localhost/https:/murylu.github.io/MyTemplate/wp-includes/css/dashicons.min.css?ver=5.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='buttons-css'  href='http://localhost/https:/murylu.github.io/MyTemplate/wp-includes/css/buttons.min.css?ver=5.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='forms-css'  href='http://localhost/https:/murylu.github.io/MyTemplate/wp-admin/css/forms.min.css?ver=5.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='l10n-css'  href='http://localhost/https:/murylu.github.io/MyTemplate/wp-admin/css/l10n.min.css?ver=5.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='login-css'  href='http://localhost/https:/murylu.github.io/MyTemplate/wp-admin/css/login.min.css?ver=5.2.2' type='text/css' media='all' />
 	<meta name='robots' content='noindex,noarchive' />
 	<meta name='referrer' content='strict-origin-when-cross-origin' />
 		<meta name="viewport" content="width=device-width" />
@@ -22,7 +22,7 @@
 		<div id="login">
 		<h1><a href="https://br.wordpress.org/">Powered by WordPress</a></h1>
 	
-	<form name="loginform" id="loginform" action="/https://murylu.github.io/MyTemplate/wp-login.php" method="post">
+	<form name="loginform" id="loginform" action="http://localhost/https:/murylu.github.io/MyTemplate/wp-login.php" method="post">
 	<p>
 		<label for="user_login">Nome de usuário ou endereço de e-mail<br />
 		<input type="text" name="log" id="user_login" class="input" value="" size="20" autocapitalize="off" /></label>
@@ -40,7 +40,7 @@
 	</form>
 
 			<p id="nav">
-					<a href="/https://murylu.github.io/MyTemplate/wp-login.php?action=lostpassword">Perdeu a senha?</a>
+					<a href="http://localhost/https:/murylu.github.io/MyTemplate/wp-login.php?action=lostpassword">Perdeu a senha?</a>
 				</p>
 	
 	<script type="text/javascript">
@@ -57,7 +57,7 @@
 			if(typeof wpOnload=='function')wpOnload();
 			</script>
 
-			<p id="backtoblog"><a href="/https://murylu.github.io/MyTemplate/">
+			<p id="backtoblog"><a href="http://localhost/https:/murylu.github.io/MyTemplate/">
 		&larr; Voltar para Template	</a></p>
 			
 	</div>
